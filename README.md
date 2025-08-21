@@ -1,6 +1,8 @@
 # GEOly.net
 GEOly.net is  the best Generative Engine Optimization directory. Discover generative engine optimization service, platform, tools, websites, resource.
 
+<img width="1200" height="630" alt="geolynet_tiny_og" src="https://github.com/user-attachments/assets/959a07b3-eef3-4545-aced-8d404af2be48" />
+
 # Introduction
 GEOly.net is a directory dedicated to Generative Engine Optimization (GEO), focusing on tools and resources that enhance visibility in AI search engines. It provides a curated collection of services, platforms, and tools designed to optimize content for AI-driven search results.
 
